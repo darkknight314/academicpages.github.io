@@ -83,7 +83,7 @@ author:
   name             : "Pratik Kakade"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "https://www.google.com/maps/@18.5644095,73.8341241,17z"
+  location         : "https://goo.gl/maps/bg4dwdhyavWKTnaA7"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -209,7 +209,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  
   #- scope:
    #   path: ""
     #  type: teaching
