@@ -83,13 +83,13 @@ author:
   name             : "Pratik Kakade"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "https://goo.gl/maps/bg4dwdhyavWKTnaA7"
+  location         : 
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "pratik.kakade7@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://goo.gl/maps/bg4dwdhyavWKTnaA7"
   bitbucket        :
   codepen          :
   dribbble         :
