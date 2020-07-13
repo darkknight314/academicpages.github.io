@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if author.github %}
+  You can also find my projects on <u><a href="{{author.github}}">my GitHub profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
