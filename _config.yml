@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -56,13 +56,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+#twitter:
+ # username               : &twitter
+#facebook:
+ # username               :
+  #app_id                 :
+  #publisher              :
+#og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -83,10 +83,10 @@ author:
   name             : "Pratik Kakade"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Pune"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "https://www.google.com/maps/@18.5644095,73.8341241,17z"
+  #employer         :
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "pratik.kakade7@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+   #   path: ""
+    #  type: teaching
+    #values:
+    #  layout: single
+     # author_profile: true
+     # share: true
+     # comments: true
   # _publications
   - scope:
       path: ""
